@@ -1,0 +1,52 @@
+/*Msimango KSI*/
+.formstyle
+{
+width: 250px;
+height: 300px;
+margin: 15px auto;
+border: 3px solid gray;
+background-color: plum;
+border-radius: 5px;
+padding: 38px;
+text-align: center center center;
+
+}
+
+/* Display top horizontal bar that contain some information. */
+h1 {
+	text-align: center;
+	padding: 12px;
+	background-color: lightgray;
+	color: white;
+	font-style: italic;
+	}
+
+	input:hover{
+		background-color: gray;
+	}
+*{
+margin: 0;
+padding: 0;
+}
+
+/* The layout for a calculator button. */
+.btn{
+width: 60px;
+height: 50px;
+font-size: 25px;
+margin: 1px;
+cursor: pointer;
+background-color: blueviolet;
+color: white;
+font-style: italic;
+
+}
+
+/* It is used to display the operations and results. */
+.textview{
+width: 235px;
+margin: 5px;
+font-size: 30px;
+padding: 6px;
+background-color: lightgray;
+}	
